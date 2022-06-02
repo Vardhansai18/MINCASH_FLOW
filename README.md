@@ -1,2 +1,2 @@
-# MINCASH_FLOW
-mincashflowalgo
+# CBFriendsCost
+CB Project
