@@ -1,2 +1,2 @@
-# CBFriendsCost
+# MINCOST_FLOW
 CB Project
